@@ -1,0 +1,21 @@
+header{
+    all: unset;
+  }
+  .nav-strip{
+    position: fixed !important;
+    background-color: transparent;
+  }
+  .nav-strip-light{
+    background-color: transparent;
+  }
+  .ontop{
+    color: #fff !important;
+  }
+  .navbar.scrolled{
+    background-color: #fff;
+  }
+  
+  .navbar .nav-link
+  .scrolledDown {
+    color: var(--text) !important;
+  }
